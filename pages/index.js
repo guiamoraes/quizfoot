@@ -53,7 +53,7 @@ export default function Home() {
             <p>lorem ipsum dolor sit amet...</p>
           </Widget.Content>
         </Widget>
-        
+
         <Footer />
       </QuizContainer>
       <GitHubCorner projectUrl="https://github.com/guiamoraes" />
