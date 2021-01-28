@@ -6,7 +6,7 @@
       {
         "image": "https://s2.glbimg.com/tWEb8Y_4um0BbMbv7MYBvcXLy0A=/smart/s.glbimg.com/es/ge/f/original/2015/07/06/gol4.gif",
         "title": "Qual foi placar da partida semi-final entre Brasil e Alemanha na Copa de 2014?",
-        "description": "Essa é pra aquecer",
+        "description": "Foi pouco",
         "answer": 2,
         "alternatives": [
           "ALE 2 x 0 BRA",
@@ -16,13 +16,15 @@
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://i.imgur.com/YOXUKl8.gif",
+        "title": "Qual jogador marcou o único gol do Brasil?",
+        "description": "",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Fred",
+           "Oscar",
+           "Neymar",
+           "Jô"
         ]
       }
     ],
