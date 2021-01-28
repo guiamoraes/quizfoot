@@ -4,15 +4,15 @@
     "description": "Teste os seus conhecimentos sobre futebol",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+        "image": "https://s2.glbimg.com/tWEb8Y_4um0BbMbv7MYBvcXLy0A=/smart/s.glbimg.com/es/ge/f/original/2015/07/06/gol4.gif",
         "title": "Qual foi placar da partida semi-final entre Brasil e Alemanha na Copa de 2014?",
         "description": "Essa é pra aquecer",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "ALE 2 x 0 BRA",
+          "ALE 1 X 4 BRA",
+          "ALE 7 x 1 BRA",
+          "ALE 3 x 2 BRA"
         ]
       },
       {
@@ -34,7 +34,7 @@
         "primary": "#3d5afe",
         "secondary": "#ffeb3b",
         "mainBg": "#171B35",
-        "contrastText": "#00FF00",
+        "contrastText": "#00BC00",
         "wrong": "#FF5722",
         "success": "#4CAF50"
       },

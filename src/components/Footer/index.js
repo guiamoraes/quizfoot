@@ -21,6 +21,7 @@ const FooterWrapper = styled.footer`
     }
     span {
       text-decoration: underline;
+      color: #00BC00;
     }
   }
 `;
