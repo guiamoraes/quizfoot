@@ -53,7 +53,7 @@ function LoadingWidget() {
   return (
     <Widget>
       <Widget.Header>
-        Carregando...
+        Fiicaaaa...
       </Widget.Header>
 
       <Widget.Content>
