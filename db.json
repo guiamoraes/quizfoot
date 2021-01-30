@@ -19,12 +19,60 @@
         "image": "https://i.imgur.com/YOXUKl8.gif",
         "title": "Qual jogador marcou o único gol do Brasil?",
         "description": "",
-        "answer": 0,
+        "answer": 1,
         "alternatives": [
            "Fred",
            "Oscar",
            "Neymar",
            "Jô"
+        ]
+      },
+      {
+        "image": "https://i.gifer.com/9G8C.gif",
+        "title": "Qual time é o atual campeão da Champions League?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+          "Barcelona",
+          "Paris Saint-Germain",
+          "Bayern de Munique",
+          "Liverpool"
+        ]
+      },
+      {
+        "image": "https://media2.giphy.com/media/3o72F9UvO0BSHyeRIQ/source.gif",
+        "title": "Qual seleção venceu a última Copa América?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+          "Chile",
+          "Brasil",
+          "França",
+          "Uruguai"
+        ]
+      },
+      {
+        "image": "https://hugogloss.uol.com.br/wp-content/uploads/2018/07/russo4.gif",
+        "title": "Qual país sediou e em qual ano foi realizada a última Copa do Mundo?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+          "Brasil, em 2018",
+          "Bélgica, em 2016",
+          "Estados Unidos, em 2012",
+          "Rússia, em 2018"
+        ]
+      },
+      {
+        "image": "https://1.bp.blogspot.com/-dZlZBqSZWYw/Vl5lpBE-yFI/AAAAAAAAARs/jrC3jHoyObs/s1600/zidane_headbutt.gif",
+        "title": "Quem era o técnico da seleção brasileira na Copa de 2006?",
+        "description": "",
+        "answer": 0,
+        "alternatives": [
+          "Parreira",
+          "Dunga",
+          "Zagalo",
+          "Leão"
         ]
       }
     ],
