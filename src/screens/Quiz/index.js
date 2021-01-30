@@ -9,6 +9,7 @@ import QuizContainer from '../../components/QuizContainer';
 import AlternativesForm from '../../components/AlternativesForm';
 import Button from '../../components/Button';
 import BackLinkArrow from '../../components/BackLinkArrow';
+import Loading from '../../components/Loading';
 
 import loadingAnimation from './animations/loading.json';
 
@@ -56,16 +57,11 @@ function LoadingWidget() {
   return (
     <Widget>
       <Widget.Header>
-        Carregando...
+        Fiiicaaaa...
       </Widget.Header>
 
       <Widget.Content style={{ display: 'flex', justifyContent: 'center' }}>
-        <Lottie
-          width="200px"
-          height="200px"
-          className="lottie-container basic"
-          config={{ animationData: loadingAnimation, loop: true, autoplay: true }}
-        />
+        <Loading />
       </Widget.Content>
     </Widget>
   );
