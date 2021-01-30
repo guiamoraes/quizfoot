@@ -41,7 +41,7 @@
       },
       {
         "image": "https://media2.giphy.com/media/3o72F9UvO0BSHyeRIQ/source.gif",
-        "title": "Qual seleção venceu a última Copa América?",
+        "title": "Qual é a seleção campeã da última Copa América?",
         "description": "",
         "answer": 1,
         "alternatives": [
@@ -77,11 +77,12 @@
       }
     ],
     "external": [
-      ""
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/",
+      "https://aluraquiz.alnun.vercel.app/"
     ],
     "theme": {
       "colors": {
-        "primary": "#3d5afe",
+        "primary": "#0000bb",
         "secondary": "#ffeb3b",
         "mainBg": "#171B35",
         "contrastText": "#00BC00",

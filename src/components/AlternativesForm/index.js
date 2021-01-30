@@ -21,6 +21,10 @@ const AlternativesForm = styled.form`
   button {
     margin-top: 24px;
   }
+  p {
+    color: #FDFDFD;
+    font-weight: bold;
+  }
 `;
 
 export default AlternativesForm;
