@@ -74,6 +74,54 @@
           "Zagalo",
           "Leão"
         ]
+      },
+      {
+        "image": "https://pa1.narvii.com/6924/d020020714f774c7780a71a028eeb064706793d6r1-512-512_hq.gif",
+        "title": "O campeão da Taça Libertadores da América do ano 2000 foi o...",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+          "Peñarol",
+          "Corinthians",
+          "Palmeiras",
+          "Boca Juniors"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/7h8LM7XfZp9Li/giphy.gif",
+        "title": "Quem levou a primeira Copa do Mundo, em 1930?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+          "Holanda",
+          "Uruguai",
+          "Camarões",
+          "Brasil"
+        ]
+      },
+      {
+        "image": "https://i.makeagif.com/media/9-02-2015/AKck4e.gif",
+        "title": "Em qual cidade foi realizada a final da Copa do Mundo de 1978?",
+        "description": "",
+        "answer": 0,
+        "alternatives": [
+          "Buenos Aires",
+          "Tóquio",
+          "Lima",
+          "Paris"
+        ]
+      },
+      {
+        "image": "https://i.makeagif.com/media/9-02-2015/AKck4e.gif",
+        "title": "As Copas de ____________ foram decididas nos pênaltis.",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+          "90 e 94",
+          "86 e 2014",
+          "82 e 2010",
+          "94 e 2006"
+        ]
       }
     ],
     "external": [
